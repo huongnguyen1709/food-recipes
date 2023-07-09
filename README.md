@@ -65,12 +65,13 @@ Deploy the project as a Github Page
     ```
 
 1.  **Step 4.**
-    Deploy _public_ folder to _gh-pages_
+    Deploy _public_ folder to _gh-pages_ branch
 
     ```sh
     npm run deploy
     ```
 
 1.  **Step 5.**
-    Now your Github Page is ready:
+    Go to setting -> Pages -> Choose the branch to be built for your Github Page is _gh-pages_ -> press _save_
+    Your site will be ready in minutes:
     - https://huongnguyen1709.github.io/food-recipes
