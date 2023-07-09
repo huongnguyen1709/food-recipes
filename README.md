@@ -103,4 +103,3 @@ Deploy the project as a Github Page
 - [Heroicons - by the makers of TailwindCSS](https://heroicons.com/)
 - [Google Fonts](https://fonts.google.com/)
 - [Github Pages](https://pages.github.com/)
-- [Deployment](https://www.youtube.com/watch?v=Q9n2mLqXFpU)
