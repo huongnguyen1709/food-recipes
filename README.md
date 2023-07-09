@@ -78,3 +78,11 @@ Deploy the project as a Github Page
     - Choose the branch to be built for the Github Page is _gh-pages_ -> press _save_
     - The site will be ready in minutes:
       - https://huongnguyen1709.github.io/food-recipes
+
+## Acknowledgments
+
+    - [TailwindCSS Documentation] (https://v2.tailwindcss.com/docs)
+    - [Heroicons - by the makers of Tailwind CSS] (https://heroicons.com/)
+    - [Google Fonts] (https://fonts.google.com/)
+    - [Github Pages] (https://pages.github.com/)
+    - [Deployment] (https://www.youtube.com/watch?v=Q9n2mLqXFpU)
