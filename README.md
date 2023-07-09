@@ -1,4 +1,4 @@
-# food-recipes-esponsive-ui
+# food-recipes-responsive-ui
 
 This is a responsive UI made from using TailwindCSS
 
@@ -49,13 +49,13 @@ Deploy the project as a Github Page
     npm install gh-pages --save-dev
     ```
 1.  **Step 2.**
-    Add homepage to package.json
+    Add homepage url to package.json
     ```sh
     # In the package.json, add the homepage in the beginning, replace the URL with your Github-pages-link
     "homepage": "https://huongnguyen1709.github.io/food-recipes",
     ```
 1.  **Step 3.**
-    Add script _deploy_ to package.json
+    Add script _"deploy"_ to package.json
 
     ```sh
     # public folder where the html file is located in and it's gonna be public on Github page
@@ -81,8 +81,8 @@ Deploy the project as a Github Page
 
 ## Acknowledgments
 
-    - [TailwindCSS Documentation] (https://v2.tailwindcss.com/docs)
-    - [Heroicons - by the makers of Tailwind CSS] (https://heroicons.com/)
-    - [Google Fonts] (https://fonts.google.com/)
-    - [Github Pages] (https://pages.github.com/)
-    - [Deployment] (https://www.youtube.com/watch?v=Q9n2mLqXFpU)
+    - [TailwindCSS Documentation](https://v2.tailwindcss.com/docs)
+    - [Heroicons - by the makers of Tailwind CSS](https://heroicons.com/)
+    - [Google Fonts](https://fonts.google.com/)
+    - [Github Pages](https://pages.github.com/)
+    - [Deployment](https://www.youtube.com/watch?v=Q9n2mLqXFpU)
