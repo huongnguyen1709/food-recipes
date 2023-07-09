@@ -81,8 +81,8 @@ Deploy the project as a Github Page
 
 ## Acknowledgments
 
-    - [TailwindCSS Documentation](https://v2.tailwindcss.com/docs)
-    - [Heroicons - by the makers of Tailwind CSS](https://heroicons.com/)
-    - [Google Fonts](https://fonts.google.com/)
-    - [Github Pages](https://pages.github.com/)
-    - [Deployment](https://www.youtube.com/watch?v=Q9n2mLqXFpU)
+- [TailwindCSS Documentation](https://v2.tailwindcss.com/docs)
+- [Heroicons - by the makers of Tailwind CSS](https://heroicons.com/)
+- [Google Fonts](https://fonts.google.com/)
+- [Github Pages](https://pages.github.com/)
+- [Deployment](https://www.youtube.com/watch?v=Q9n2mLqXFpU)
