@@ -1,6 +1,24 @@
-# food-recipes-responsive-ui
+# food-recipes-responsive-UI
 
 This is a responsive UI made from using TailwindCSS
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+   <li><a href="#prerequisites">Prerequisites</a></li>
+   <li><a href="#quick-start">Quick start</a></li>
+   <li><a href="#deployment">Deployment</a></li>
+   <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+## Prerequisites
+
+- npm
+  ```sh
+  npm install npm@latest -g
+  ```
 
 ## 🚀 Quick start
 
@@ -11,7 +29,7 @@ This is a responsive UI made from using TailwindCSS
     git clone https://github.com/huongnguyen1709/food-recipes.git
     ```
 1.  **Step 2.**
-    Install node_modules folder
+    Install NPM packages
     ```sh
     # It will install required dependencies and devDependencies for the project
     npm install
@@ -82,7 +100,7 @@ Deploy the project as a Github Page
 ## Acknowledgments
 
 - [TailwindCSS Documentation](https://v2.tailwindcss.com/docs)
-- [Heroicons - by the makers of Tailwind CSS](https://heroicons.com/)
+- [Heroicons - by the makers of TailwindCSS](https://heroicons.com/)
 - [Google Fonts](https://fonts.google.com/)
 - [Github Pages](https://pages.github.com/)
 - [Deployment](https://www.youtube.com/watch?v=Q9n2mLqXFpU)
