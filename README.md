@@ -1,4 +1,4 @@
-# ood-recipes-esponsive-ui
+# food-recipes-esponsive-ui
 
 This is a responsive UI made from using TailwindCSS
 
@@ -74,10 +74,7 @@ Deploy the project as a Github Page
 1.  **Step 5.**
     Choose branch to be built for the Github Page
 
-    ```sh
-    # Go to setting -> Pages -> Choose the branch to be built for your Github Page is _gh-pages_ -> press _save_
-    Your site will be ready in minutes
-
-    ```
-
-    - https://huongnguyen1709.github.io/food-recipes
+    - Go to setting -> Pages
+    - Choose the branch to be built for the Github Page is _gh-pages_ -> press _save_
+    - The site will be ready in minutes:
+      - https://huongnguyen1709.github.io/food-recipes
